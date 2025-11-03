@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3dbfacade84156aa",
@@ -165,8 +164,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "126d5299217b1944",
+  "active": "f4808a76cc808ba5",
   "lastOpenFiles": [
+    "Untitled.md",
     "Vim.md",
     "Neovim.md",
     "Vim - O Editor Modal.md",
